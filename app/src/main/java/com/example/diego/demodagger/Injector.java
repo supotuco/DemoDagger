@@ -5,27 +5,28 @@ package com.example.diego.demodagger;
  */
 
 public class Injector {
+    private static ParentComponent parentComponent;
     private static DemoComponent componentA;
     private static DemoComponentB componentB;
 
     public static void initialize(){
         DemoModule module = new DemoModule();
-        componentA = DaggerDemoComponent
-                .builder()
-                .demoModule(module)
-                .build();
 
-        componentB = DaggerDemoComponentB
+        parentComponent = DaggerParentComponent
                 .builder()
                 .demoModule(module)
                 .build();
     }
 
     public static DemoComponent getComponentA(){
-        return componentA;
+        return parentComponent
+                .provideBuilder()
+                .build();
     }
 
     public static DemoComponentB getComponentB(){
-        return componentB;
+        return parentComponent
+                .provideBBuilder()
+                .build();
     }
 }

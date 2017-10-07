@@ -6,7 +6,7 @@ import dagger.Module;
 import dagger.Provides;
 
 
-@Module
+@Module(subcomponents = {DemoComponent.class, DemoComponentB.class})
 public class DemoModule {
 
     @Provides

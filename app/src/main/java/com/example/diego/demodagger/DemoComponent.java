@@ -2,12 +2,16 @@ package com.example.diego.demodagger;
 
 import javax.inject.Singleton;
 
-import dagger.Component;
+import dagger.Subcomponent;
 
-@Singleton
-@Component(modules = DemoModule.class)
+
+@Subcomponent
 public interface DemoComponent {
 
     void inject(TopFragment topFragment);
 
+    @Subcomponent.Builder
+    interface Builder {
+        DemoComponent build();
+    }
 }
