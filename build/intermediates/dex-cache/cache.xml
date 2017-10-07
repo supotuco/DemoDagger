@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/539a9afafad77a8326d3ff0fc40c4f78746a0b23/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1629f030ac52115626992b5c2b2d8d6d4ac2bf66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/64d0d985306fc13922f90bb1bda268789880f1cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_358e1134c6a9b95c977c871ec874204c7493a781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/539a9afafad77a8326d3ff0fc40c4f78746a0b23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_676125f1ae1b5c8788b1e61f653342dddf645e2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/f450b1f5e22fcf75e3b554ad676509c995575da0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bb43b5199a1065f0f0581ebce14b46b99b9c20f9">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_936f2a028a8b143a208d74e17100ae85cfbdcd08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/353627ceff81004e9cc04bb22194480b4d066f5b/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_72ce08280fd831319d8e984c080de36e6604e05f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/0847322b7db66817df7630023919630974747c63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e9437faebfe2b07b02acdfbae3076a63ea633a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_5653173fd0ab753a210775cf3d33236fd72d2c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/e2249e854b217a8c02dd427ef2641c5aee4f03d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdc2d58fc82f51d66e5df1b6075a8772ce808c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/c18213834d71214b96a6ffb018ccebcd2aa24925/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_bf86d8d7ca989f9e3304bd5387f821446dc12fcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/6d0a78b141b57567836719ec956836fadaee833a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8e666b3af524e1f8d68a211babc0a16ebcca6d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/c01e1b65d50b45f4e5f4ec36ec531b902c8c7954/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a87e6d17a61ead25f6402cfc59cad951b125bdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/DemoDagger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_47e13f42f8710a7033b5ad57d9ae3f598068b7d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_c5efbc3bcc2193e655776d1add6b5f1d76f9e2f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/393f2ad455e6fc180282bb7e01fb235be433cd27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e26597a905cfb8b8d59edd9ac0a2abf2613e8b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/e2249e854b217a8c02dd427ef2641c5aee4f03d7/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_10cd70a81e69f3e42afbf3b0ecd882c3def38a3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/0847322b7db66817df7630023919630974747c63/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_851c3dc7a125e2a83405c18b6fc6276bb3173db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/c18213834d71214b96a6ffb018ccebcd2aa24925/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f9e3d28fb542a352f2aa372d92fe53cd553c235/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/DemoDagger/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="231a2ab5c5c2c4ce744e4bbf72f1cf599a913e42">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e89db8c174a5516f2e1d2f3ee4a7f13ab92de09e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/b5e24d011547956cc7a87639fa5f9c695cb05e54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c9d0866780279a3ad22052ac35d18eeb0474a770">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76d2ba616fc444ecae98c1528007e7e36a97f1d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.android/build-cache/353627ceff81004e9cc04bb22194480b4d066f5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0221311e317af60d423b57e38913c22074100caf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.1_2336438899e21eed43d0cd694c09c2f7922e06c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/diego/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.11/95037eaee68aa48021511972e9db9ba29916e1c9/dagger-2.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95037eaee68aa48021511972e9db9ba29916e1c9">
+        <dex dex="/Users/diego/DemoDagger/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.11_19c4955d51c1200c911935327818aff2216e1b66/classes.dex" />
+    </item>
+
+</items>
