@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Injector.initialize();
-        Fragment fragment = new TopFragment();
+        Fragment fragment = new FragmentOne();
 
 
         getSupportFragmentManager()
@@ -19,11 +19,39 @@ public class MainActivity extends AppCompatActivity {
                 .replace(R.id.container_1, fragment)
                 .commit();
 
-        fragment = new BottomFragment();
+        fragment = new FragmentTwo();
 
         getSupportFragmentManager()
                 .beginTransaction()
                 .replace(R.id.container_2, fragment)
+                .commit();
+
+        fragment = new FragmentThree();
+
+        getSupportFragmentManager()
+                .beginTransaction()
+                .replace(R.id.container_3_1, fragment)
+                .commit();
+
+        fragment = new FragmentThree();
+
+        getSupportFragmentManager()
+                .beginTransaction()
+                .replace(R.id.container_3_2, fragment)
+                .commit();
+
+        fragment = new FragmentFour();
+
+        getSupportFragmentManager()
+                .beginTransaction()
+                .replace(R.id.container_4_1, fragment)
+                .commit();
+
+        fragment = new FragmentFour();
+
+        getSupportFragmentManager()
+                .beginTransaction()
+                .replace(R.id.container_4_2, fragment)
                 .commit();
     }
 }

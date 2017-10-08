@@ -11,14 +11,17 @@ import android.widget.TextView;
 
 import javax.inject.Inject;
 
-public class TopFragment extends Fragment {
+public class FragmentFour extends Fragment {
+
     @Inject
     ProvidedObj providedObj;
+    @Inject
+    ProvidedBObj providedBObj;
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Injector.getComponentA().inject(this);
+        Injector.getComponentC().inject(this);
     }
 
 
@@ -32,7 +35,9 @@ public class TopFragment extends Fragment {
     @Override
     public void onStart() {
         super.onStart();
-        TextView textView = (TextView) getView().findViewById(R.id.text_view);
-        textView.setText(Integer.toString(providedObj.hashCode()));
+        TextView textView = getView().findViewById(R.id.text_view);
+        textView.setText("DemoC\n" +
+                "ProvideObj HashCode: " + providedObj.hashCode()
+                + "\nProvidedObjB HashCode: " + providedBObj.hashCode());
     }
 }
