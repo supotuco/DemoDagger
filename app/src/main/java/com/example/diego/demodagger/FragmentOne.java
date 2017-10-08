@@ -1,5 +1,6 @@
 package com.example.diego.demodagger;
 
+
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -10,17 +11,16 @@ import android.widget.TextView;
 
 import javax.inject.Inject;
 
-
-public class BottomFragment extends Fragment {
-
+public class FragmentOne extends Fragment {
     @Inject
     ProvidedObj providedObj;
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Injector.getComponentB().inject(this);
+        Injector.getComponentA().inject(this);
     }
+
 
     @Nullable
     @Override
@@ -33,6 +33,6 @@ public class BottomFragment extends Fragment {
     public void onStart() {
         super.onStart();
         TextView textView = (TextView) getView().findViewById(R.id.text_view);
-        textView.setText(Integer.toString(providedObj.hashCode()));
+        textView.setText("Component A\n"+"ProvidedObj hashcode: " + Integer.toString(providedObj.hashCode()));
     }
 }
